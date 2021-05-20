@@ -1,0 +1,15 @@
+{
+  "version": "1.0",
+  "name": "GameClientJS",
+  "description": "cocos2d-js-template",
+  "launch_path": "/index.html",
+  "icons": {
+    "128": "/res/icon.png"
+  },
+  "default_locale": "en",
+  "installs_allowed_from": [
+    "*"
+  ],
+  "orientation": "portrait-primary",
+  "fullscreen": "true"
+}

@@ -1,0 +1,35 @@
+{
+    "project_type": "javascript",
+    "debugMode": 1,
+    "showFPS": true,
+    "frameRate": 60,
+    "id": "gameCanvas",
+    "renderMode": 0,
+    "engineDir": "frameworks/cocos2d-html5",
+    "modules": [
+        "cocos2d",
+        "external"
+    ],
+    "jsListOrder": [
+        "src/framework/**/*.js",
+        "src/**/*.js"
+    ],
+    "jsList": [
+      "src/framework/Framework.js",
+      "src/framework/AnimationMgr.js",
+      "src/framework/GUI.js",
+      "src/framework/libs/aes.js",
+      "src/framework/libs/crypt.js",
+      "src/framework/libs/md5.js",
+      "src/framework/libs/signals.js",
+      "src/framework/libs/underscore.js",
+      "src/framework/Localization.js",
+      "src/framework/Network.js",
+      "src/framework/PoolObject.js",
+      "src/framework/StringUtils.js",
+      "src/framework/UserData.js",
+
+      "src/resource.js",
+      "src/scene/HelloWorldScene.js"
+    ]
+}
